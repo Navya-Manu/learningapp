@@ -1,0 +1,7 @@
+C:\Users\BB668KX\OneDrive - EY\Desktop\temp\WebApplication1\bin\publish\WebApplication1.exe
+C:\Users\BB668KX\OneDrive - EY\Desktop\temp\WebApplication1\bin\publish\appsettings.Development.json
+C:\Users\BB668KX\OneDrive - EY\Desktop\temp\WebApplication1\bin\publish\appsettings.json
+C:\Users\BB668KX\OneDrive - EY\Desktop\temp\WebApplication1\bin\publish\WebApplication1.dll
+C:\Users\BB668KX\OneDrive - EY\Desktop\temp\WebApplication1\bin\publish\WebApplication1.deps.json
+C:\Users\BB668KX\OneDrive - EY\Desktop\temp\WebApplication1\bin\publish\WebApplication1.runtimeconfig.json
+C:\Users\BB668KX\OneDrive - EY\Desktop\temp\WebApplication1\bin\publish\WebApplication1.pdb
